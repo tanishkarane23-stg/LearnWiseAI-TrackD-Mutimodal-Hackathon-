@@ -1,0 +1,10 @@
+streamlit
+pymupdf
+python-pptx
+scikit-learn
+pandas
+plotly
+requests
+pillow
+numpy
+scipy

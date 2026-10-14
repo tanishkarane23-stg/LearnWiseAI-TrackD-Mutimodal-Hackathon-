@@ -1,0 +1,117 @@
+{
+  "student_id": "student_default",
+  "experience_level": "Beginner",
+  "diagnostic_completed": false,
+  "topic_mastery": {
+    "Networking": {
+      "p_l": 0.2536,
+      "attempts": 2,
+      "correct": 1,
+      "history": [
+        {
+          "timestamp": 1791800796.1520994,
+          "is_correct": true,
+          "p_l_after": 0.5262,
+          "question_type": "MCQ"
+        },
+        {
+          "timestamp": 1791800796.1525552,
+          "is_correct": false,
+          "p_l_after": 0.2536,
+          "question_type": "MCQ"
+        }
+      ]
+    },
+    "Computer Networks": {
+      "p_l": 0.2536,
+      "attempts": 2,
+      "correct": 1,
+      "history": [
+        {
+          "timestamp": 1791801277.4235463,
+          "is_correct": true,
+          "p_l_after": 0.5262,
+          "question_type": "MCQ"
+        },
+        {
+          "timestamp": 1791801277.4240587,
+          "is_correct": false,
+          "p_l_after": 0.2536,
+          "question_type": "MCQ"
+        }
+      ]
+    },
+    "Topic 4: Energy / Should": {
+      "p_l": 0.362,
+      "attempts": 0,
+      "correct": 0,
+      "history": []
+    },
+    "Topic 5: Energy / Power": {
+      "p_l": 0.3267,
+      "attempts": 0,
+      "correct": 0,
+      "history": []
+    },
+    "Topic 3: Energy / Plant": {
+      "p_l": 0.2527,
+      "attempts": 4,
+      "correct": 0,
+      "history": [
+        {
+          "timestamp": 1791802457.1980393,
+          "is_correct": false,
+          "p_l_after": 0.1655,
+          "question_type": "Short Answer"
+        },
+        {
+          "timestamp": 1791802460.4950702,
+          "is_correct": false,
+          "p_l_after": 0.1674,
+          "question_type": "Short Answer"
+        },
+        {
+          "timestamp": 1791802463.8773286,
+          "is_correct": false,
+          "p_l_after": 0.1676,
+          "question_type": "Short Answer"
+        },
+        {
+          "timestamp": 1791802467.3687081,
+          "is_correct": false,
+          "p_l_after": 0.1676,
+          "question_type": "Short Answer"
+        }
+      ]
+    },
+    "Topic 2: Energy / Facility": {
+      "p_l": 0.4272,
+      "attempts": 0,
+      "correct": 0,
+      "history": []
+    },
+    "Topic 1: Energy / Audit": {
+      "p_l": 0.2894,
+      "attempts": 0,
+      "correct": 0,
+      "history": []
+    }
+  },
+  "quiz_attempts": [
+    {
+      "timestamp": 1791802467.3701253,
+      "topic": "Topic 3: Energy / Plant",
+      "correct": 0,
+      "total": 4,
+      "accuracy": 0.0,
+      "misconceptions": [
+        "Q1: The student failed to provide an answer, which is a critical component of the evaluation process.",
+        "Q2: The student failed to provide a comprehensive list of data types, missing key information on energy consumption and potential for fuel substitution.",
+        "Q4: The student failed to provide a complete answer and missed the key aspects of benchmarking energy performance."
+      ]
+    }
+  ],
+  "conversation_count": 13,
+  "created_at": 1791800796.1520836,
+  "last_active": 1791997593.2802393
+}
